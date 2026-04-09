@@ -1,0 +1,2 @@
+# -ATP-Prediction-Engine-Alpha-Decay-Market-Regime-Analysis
+TL;DR: An end-to-end ML pipeline predicting ATP match outcomes with 68.3% accuracy, 0.585 Log-Loss, and .96 calibration slope. This project provides an analysis of Alpha Decay in sports markets, demonstrating how predictive edges evolve as "Sharp" markets (Pinnacle) reach hyper-efficiency while "Soft" markets (Market Average) remain exploitable.
