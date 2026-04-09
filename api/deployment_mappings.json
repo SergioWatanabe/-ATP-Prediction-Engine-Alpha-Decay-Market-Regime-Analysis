@@ -1,0 +1,35 @@
+{
+    "surface_codes": {
+        "Hard": 0,
+        "Clay": 1,
+        "Grass": 2,
+        "Carpet": 4
+    },
+    "round_codes": {
+        "R128": 0,
+        "RR": 0,
+        "R64": 1,
+        "R32": 2,
+        "R16": 3,
+        "QF": 4,
+        "SF": 5,
+        "F": 6
+    },
+    "tourney_level_weights": {
+        "G": 5,
+        "F": 4,
+        "M": 3,
+        "I": 2,
+        "D": 1,
+        "O": 0,
+        "P": 6,
+        "PM": 6
+    },
+    "hand_codes": {
+        "L": 0,
+        "R": 1,
+        "U": 0.5
+    },
+    "player_encoder": {},
+    "tourney_encoder": {}
+}

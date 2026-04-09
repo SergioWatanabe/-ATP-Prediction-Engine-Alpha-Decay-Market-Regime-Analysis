@@ -1,0 +1,6142 @@
+{
+    "Adelaide": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Doha": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Chennai": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Auckland": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Sydney": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Australian Open": {
+        "surface": "Hard",
+        "tourney_level": "G"
+    },
+    "Davis Cup WG R1: SUI vs AUS": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: SVK vs AUT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: PER vs BAH": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: RUS vs BEL": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: BRA vs FRA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: CHI vs CAN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: COL vs ECU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CZE vs GBR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ESP vs ITA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: GER vs NED": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: JPN vs KOR": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 QF: KAZ vs TPE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: NZL vs THA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: UKR vs POR": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ZIM vs USA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "San Jose": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Dubai": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Marseille": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Memphis": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Rotterdam": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "London": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Mexico City": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Copenhagen": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Delray Beach": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Santiago": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Bogota": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Scottsdale": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Indian Wells Masters": {
+        "surface": "Hard",
+        "tourney_level": "M"
+    },
+    "Miami Masters": {
+        "surface": "Hard",
+        "tourney_level": "M"
+    },
+    "Davis Cup G1 SF: PER vs ECU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: USA vs CZE": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: ESP vs RUS": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: BRA vs SVK": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: AUS vs GER": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 SF: CHI vs ARG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 SF: UZB vs NZL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 SF: IND vs KOR": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: FIN vs SWE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: ROU vs HUN": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: BLR vs RSA": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: MAR vs UKR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 SF: TPE vs PAK": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Casablanca": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Atlanta": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Estoril": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Monte Carlo Masters": {
+        "surface": "Clay",
+        "tourney_level": "M"
+    },
+    "Barcelona": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup G2 R1: LAT vs CRO": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: LUX vs IRL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: BUL vs GRE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: NOR vs ISR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Munich": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Mallorca": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Orlando": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Rome Masters": {
+        "surface": "Clay",
+        "tourney_level": "M"
+    },
+    "Hamburg Masters": {
+        "surface": "Clay",
+        "tourney_level": "M"
+    },
+    "Dusseldorf": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "St. Poelten": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Roland Garros": {
+        "surface": "Clay",
+        "tourney_level": "G"
+    },
+    "Queen's Club": {
+        "surface": "Grass",
+        "tourney_level": "O"
+    },
+    "Halle": {
+        "surface": "Grass",
+        "tourney_level": "O"
+    },
+    "s Hertogenbosch": {
+        "surface": "Grass",
+        "tourney_level": "O"
+    },
+    "Nottingham": {
+        "surface": "Grass",
+        "tourney_level": "O"
+    },
+    "Wimbledon": {
+        "surface": "Grass",
+        "tourney_level": "G"
+    },
+    "Gstaad": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Newport": {
+        "surface": "Grass",
+        "tourney_level": "O"
+    },
+    "Bastad": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG SF: AUS vs BRA": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 QF: IRL vs CRO": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: GBR vs ECU": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: UZB vs NED": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ZIM vs ROU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Amsterdam": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Stuttgart Outdoor": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Umag": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG SF: ESP vs USA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: CAN vs ARG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: BAH vs COL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 F: MEX vs VEN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 QF: DEN vs CIV": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 QF: GRE vs NOR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: LUX vs LAT": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: BUL vs ISR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: FRA vs AUT": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ITA vs BEL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SWE vs IND": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SUI vs BLR": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Kitzbuhel": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Los Angeles": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "San Marino": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Canada Masters": {
+        "surface": "Hard",
+        "tourney_level": "M"
+    },
+    "Cincinnati Masters": {
+        "surface": "Hard",
+        "tourney_level": "M"
+    },
+    "Washington": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Indianapolis": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Long Island": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "US Open": {
+        "surface": "Hard",
+        "tourney_level": "G"
+    },
+    "Tashkent": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Bucharest": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Sydney Olympics": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Palermo": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Hong Kong": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup G1 PO: COL vs ARG": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 SF: CRO vs CIV": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: FIN vs HUN": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: POR vs RSA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Tokyo": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Vienna": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Toulouse": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Shanghai": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Basel": {
+        "surface": "Carpet",
+        "tourney_level": "O"
+    },
+    "Moscow": {
+        "surface": "Carpet",
+        "tourney_level": "O"
+    },
+    "Stuttgart Masters": {
+        "surface": "Hard",
+        "tourney_level": "M"
+    },
+    "Lyon": {
+        "surface": "Carpet",
+        "tourney_level": "O"
+    },
+    "St. Petersburg": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Paris Masters": {
+        "surface": "Carpet",
+        "tourney_level": "M"
+    },
+    "Stockholm": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Brighton": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Masters Cup": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG F: ESP vs AUS": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Milan": {
+        "surface": "Carpet",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG R1: AUS vs ECU": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: BRA vs MAR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: SWE vs CZE": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: SVK vs RUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: BEL vs FRA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: SUI vs USA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: GER vs ROU": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: NED vs ESP": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: POR vs UKR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: FIN vs SLO": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: ARG vs MEX": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: BAH vs PER": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: INA vs UZB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: KOR vs NZL": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: JPN vs THA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 QF: CRC vs AHO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 QF: PAR vs VEN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 QF: TPE vs PAK": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Vina del Mar": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Buenos Aires": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Acapulco": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup G1 SF: ARG vs CAN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 SF: BAH vs CHI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: GBR vs POR": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: CRO vs AUT": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: BLR vs ZIM": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: FIN vs ITA": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 SF: NZL vs UZB": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 SF: JPN vs IND": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: KOR vs INA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: COL vs CRC": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: BRA vs AUS": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: SWE vs RUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: SUI vs FRA": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: NED vs GER": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: IRL vs DEN": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: LUX vs CIV": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: POL vs ISR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: RSA vs YUG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Houston": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Stuttgart": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup G2 QF: GRE vs ARM": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 QF: LUX vs NOR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 QF: ISR vs RSA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: MEX vs CAN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Sopot": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Costa Do Sauipe": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup G1 PO: MEX vs PER": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 SF: GRE vs DEN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 SF: LUX vs ISR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: AUS vs SWE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: NED vs FRA": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ARG vs BLR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: BEL vs MAR": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: CZE vs ROU": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ECU vs GBR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ITA vs CRO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SVK vs CHI": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ESP vs UZB": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: AUT vs UKR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: ZIM vs SLO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG F: AUS vs FRA": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: FRA vs NED": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CZE vs BRA": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ESP vs MAR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: USA vs SVK": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: RUS vs SUI": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: GBR vs SWE": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CRO vs GER": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ARG vs AUS": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: ZIM vs POR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: AUT vs ISR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: THA vs UZB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: KOR vs JPN": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: NZL vs INA": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 QF: HKG vs TPE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: BAH vs VEN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: CAN vs MEX": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 SF: THA vs JPN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 SF: NZL vs IND": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: ITA vs FIN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: ZIM vs BLR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: ROU vs AUT": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 QF: BEL vs GRE": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: FRA vs CZE": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: USA vs ESP": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: RUS vs SWE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: ARG vs CRO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 SF: VEN vs ECU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 SF: CAN vs CHI": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 SF: PAR vs PER": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: YUG vs RSA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: LUX vs HUN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 QF: DEN vs NOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 QF: LUX vs YUG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 QF: SLO vs IRL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: BLR vs POR": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: MEX vs CHI": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Amersfoort": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG SF: FRA vs USA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: RUS vs ARG": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: AUS vs IND": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ZIM vs BEL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: BRA vs CAN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: GER vs VEN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: GBR vs THA": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: FIN vs NED": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SVK vs ROU": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: MAR vs SUI": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: BAH vs MEX": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 SF: NOR vs CIV": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 SF: LUX vs SLO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: ITA vs POR": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Madrid Masters": {
+        "surface": "Hard",
+        "tourney_level": "M"
+    },
+    "Davis Cup WG F: FRA vs RUS": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ROU vs FRA": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: NED vs SUI": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: AUS vs GBR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: SWE vs BRA": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CRO vs USA": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ESP vs BEL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ARG vs GER": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CZE vs RUS": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: ECU vs CHI": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: PER vs BAH": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: IND vs JPN": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: NZL vs PAK": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: NOR vs AUT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: BLR vs ISR": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: TPE vs KAZ": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: RSA vs POL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: DEN vs TUN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: YUG vs CIV": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: FRA vs SUI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: SWE vs AUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: ESP vs CRO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: ARG vs RUS": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: CAN vs PER": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: IND vs NZL": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: UZB vs THA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: LUX vs SVK": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: AUT vs FIN": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: BLR vs ZIM": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: MAR vs ITA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: CHN vs TPE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: INA vs KOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Valencia": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup G2 R2: RSA vs POR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: DEN vs SLO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: GRE vs IRL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: NOR vs FIN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: AUS vs SUI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: ESP vs ARG": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 F: DOM vs PAR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: DEN vs RSA": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: GRE vs YUG": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: PAK vs KOR": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: NOR vs LUX": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: ZIM vs ITA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: AUT vs BEL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: CAN vs BRA": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: THA vs CZE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: GER vs BLR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: MAR vs GBR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: NED vs IND": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ECU vs ROU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SVK vs USA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Bangkok": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Metz": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG F: AUS vs ESP": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: AUS vs SWE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: USA vs AUT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: BLR vs RUS": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: MAR vs ARG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ROU vs SUI": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: FRA vs CRO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: NED vs CAN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CZE vs ESP": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: LUX vs FIN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: ZIM vs GRE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: VEN vs PAR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: PER vs CHI": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: NZL vs IND": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: USA vs SWE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: BLR vs ARG": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: ESP vs NED": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: GER vs ISR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: LUX vs GBR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: BEL vs ZIM": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: RSA vs SVK": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: BRA vs PAR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: CHI vs ECU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: THA vs UZB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: JPN vs IND": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: ITA vs GEO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: SLO vs POL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: TUN vs POR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: DOM vs URU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: ITA vs BUL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: POL vs ALG": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: POR vs SCG": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Athens Olympics": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Beijing": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup G1 PO: ISR vs FIN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: USA vs BLR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: ESP vs FRA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: RSA vs GRE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: BRA vs PER": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: PAK vs NZL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 F: ITA vs POL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: AUS vs MAR": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: CHI vs JPN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: CRO vs BEL": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: PAR vs CZE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SVK vs GER": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: AUT vs GBR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ROU vs CAN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: RUS vs THA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG F: ESP vs USA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: SVK vs ESP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: SUI vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: AUS vs AUT": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ARG vs CZE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: RUS vs CHI": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: FRA vs SWE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ROU vs BLR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: USA vs CRO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: MEX vs ECU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: LUX vs ITA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: ISR vs GBR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: RSA vs GER": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: PAK vs THA": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: TPE vs JPN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: INA vs UZB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: UKR vs NOR": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: ALG vs POL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: LAT vs GRE": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: COL vs BRA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: AHO vs BAH": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: NZL vs KAZ": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: ITA vs MAR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: SCG vs BEL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: PAK vs TPE": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: IND vs UZB": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: SVK vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: AUS vs ARG": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: RUS vs FRA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: CRO vs ROU": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: LUX vs MAR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: JPN vs THA": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: POR vs ALG": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: SLO vs LAT": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: NOR vs MON": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: GRE vs CIV": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: URU vs DOM": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: COL vs BAH": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "New Haven": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG SF: SVK vs ARG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: CRO vs RUS": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: AUT vs ECU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: CAN vs BLR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: CHI vs PAK": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: CZE vs GER": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ITA vs ESP": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: IND vs SWE": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SUI vs GBR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: BEL vs USA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: ZIM vs ISR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: MAR vs RSA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 F: POR vs SLO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 F: NZL vs KOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 F: URU vs BRA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Ho Chi Minh City": {
+        "surface": "Carpet",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG F: SVK vs CRO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Zagreb": {
+        "surface": "Carpet",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG R1: AUT vs CRO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ARG vs SWE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: BLR vs ESP": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: GER vs FRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: NED vs RUS": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: USA vs ROU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CHI vs SVK": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: PER vs BRA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: VEN vs MEX": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: KOR vs IND": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: TPE vs PAK": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: UZB vs THA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: LUX vs POR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: ISR vs SCG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: COL vs URU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Las Vegas": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG QF: CRO vs ARG": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: AUS vs BLR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: FRA vs RUS": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: USA vs CHI": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: ECU vs BRA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: MEX vs CAN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: TPE vs KOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: THA vs JPN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: IND vs PAK": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: MAR vs CZE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: GBR vs SCG": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: UKR vs BEL": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: COL vs PAR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: AHO vs DOM": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: FIN vs IRL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: ALG vs SLO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: POL vs LAT": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: GEO vs RSA": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Poertschach": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup G1 PO: CAN vs VEN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: GBR vs ISR": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: POL vs GEO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: IRL vs SLO": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: ARG vs AUS": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: RUS vs USA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: AUT vs MEX": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: GER vs THA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: NED vs CZE": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ROU vs KOR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SVK vs BEL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ESP vs ITA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: BRA vs SWE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SUI vs SCG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: MAR vs POR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: UKR vs GBR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 F: DOM vs COL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Mumbai": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG F: RUS vs ARG": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CHI vs RUS": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: FRA vs ROU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: GER vs CRO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: BEL vs AUS": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CZE vs USA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: SUI vs ESP": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: BLR vs SWE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: AUT vs ARG": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: CAN vs COL": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: TPE vs THA": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: UZB vs IND": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: KOR vs KAZ": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: ISR vs LUX": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: GEO vs POR": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: DOM vs ESA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: BEL vs GER": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: SWE vs ARG": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: PER vs MEX": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: BRA vs CAN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: JPN vs THA": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: KOR vs UZB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: KAZ vs IND": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: ISR vs ITA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: GBR vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: NZL vs PHI": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: MAR vs DEN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: EST vs SLO": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: GRE vs UKR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: LAT vs BUL": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: CYP vs FIN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: ITA vs LUX": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: SLO vs MAR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: GRE vs POL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: FIN vs LAT": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: NGR vs UKR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: NOR vs ALG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ISR vs CHI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SRB vs AUS": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: AUT vs BRA": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: PER vs BLR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: GBR vs CRO": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: CZE vs SUI": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: JPN vs ROU": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SVK vs KOR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: RUS vs GER": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: SWE vs USA": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: NED vs POR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 F: POL vs MAR": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG F: USA vs RUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: TPE vs AUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: KAZ vs THA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: IND vs UZB": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: PHI vs JPN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: CAN vs MEX": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: URU vs COL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: PAR vs ESA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: RUS vs SRB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CZE vs BEL": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ARG vs GBR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ISR vs SWE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: GER vs KOR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: PER vs ESP": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: AUT vs USA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: FIN vs RSA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: MON vs GRE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: IRL vs MAR": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: CYP vs SLO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: POR vs TUN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: CRO vs ITA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: BLR vs SUI": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: SVK vs GEO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: RUS vs CZE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: ARG vs SWE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: GER vs ESP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: USA vs FRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: CHI vs CAN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: BRA vs COL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: AUS vs THA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: IND vs JPN": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: BAH vs PAR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: INA vs CHN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: KAZ vs TPE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: PHI vs UZB": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Warsaw": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup G1 PO: BLR vs POL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: RSA vs DEN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: IRL vs UKR": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: FIN vs LUX": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: TUN vs SLO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Beijing Olympics": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG SF: ARG vs RUS": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: ITA vs LAT": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 F: PAR vs ECU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 F: NZL vs CHN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 F: MON vs RSA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 F: UKR vs POR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: KAZ vs PHI": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: CHI vs AUS": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: GBR vs AUT": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SUI vs BEL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: CRO vs BRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ISR vs PER": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: NED vs KOR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ROU vs IND": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SVK vs SRB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG F: ARG vs ESP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Brisbane": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Johannesburg": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup G1 R1: TPE vs KAZ": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ARG vs NED": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CZE vs FRA": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: USA vs SUI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CRO vs CHI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: SWE vs ISR": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ROU vs RUS": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: GER vs AUT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ESP vs SRB": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: COL vs URU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: CAN vs ECU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: THA vs AUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: TPE vs IND": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: ITA vs SVK": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: GBR vs UKR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: BEL vs POL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: PAR vs BAH": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: HUN vs BUL": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: DEN vs FIN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: CYP vs POR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: JPN vs CHN": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: UZB vs KOR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Belgrade": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup G1 R2: COL vs BRA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: ECU vs PER": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: RSA vs BLR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R3: UZB vs JPN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Eastbourne": {
+        "surface": "Grass",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG QF: CZE vs ARG": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: CRO vs USA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: ISR vs RUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: ESP vs GER": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: PER vs CAN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: THA vs KAZ": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: VEN vs MEX": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: NZL vs INA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: SLO vs LTU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: FIN vs MON": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: CYP vs IRL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: KOR vs CHN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: HUN vs MDA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Hamburg": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG SF: CRO vs CZE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: ESP vs ISR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: PER vs URU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: GBR vs POL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: DOM vs VEN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: PHI vs NZL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: LAT vs SLO": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: FIN vs CYP": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: CHN vs THA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: CHI vs AUT": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: BEL vs UKR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: BRA vs ECU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: NED vs FRA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: RSA vs IND": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SRB vs UZB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SWE vs ROU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ITA vs SUI": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Kuala Lumpur": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Shanghai Masters": {
+        "surface": "Hard",
+        "tourney_level": "M"
+    },
+    "Tour Finals": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG F: ESP vs CZE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: LTU vs GBR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: IRL vs TUR": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: BUL vs MON": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: NOR vs SLO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: POR vs DEN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: CYP vs EGY": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ESP vs SUI": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: FRA vs GER": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: RUS vs IND": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: SWE vs ARG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CRO vs ECU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: SRB vs USA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: BEL vs CZE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: AUS vs TPE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: JPN vs PHI": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: CHN vs UZB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: KAZ vs KOR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: ITA vs BLR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: POL vs FIN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: AUT vs SVK": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: PER vs ESA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: MEX vs GUA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: DOM vs URU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: COL vs CAN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CHI vs ISR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: NED vs ITA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: RSA vs FIN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: ROU vs UKR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: BRA vs URU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: AUS vs JPN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: CHN vs KAZ": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Nice": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG QF: FRA vs ESP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: RUS vs ARG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: CRO vs SRB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: CHI vs CZE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: TPE vs PHI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: KOR vs UZB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: INA vs THA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: NZL vs PAK": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: BLR vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: IRL vs LTU": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: SLO vs BUL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: EST vs BIH": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: GBR vs TUR": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ISR vs AUT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: FRA vs ARG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: SRB vs CZE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: KOR vs PHI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: CAN vs DOM": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: THA vs NZL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: BLR vs SVK": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: LAT vs POL": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: LTU vs SLO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: POR vs BIH": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: COL vs USA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: GER vs RSA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SWE vs ITA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: IND vs BRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: AUS vs BEL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: KAZ vs SUI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ROU vs ECU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Montpellier": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG F: SRB vs FRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: GBR vs TUN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: IRL vs LUX": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: BLR vs BUL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: MAR vs BIH": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: EST vs LTU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: DEN vs MON": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: GRE vs LAT": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: SRB vs IND": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: SWE vs RUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CZE vs KAZ": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ARG vs ROU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CHI vs USA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: BEL vs ESP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: AUT vs FRA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: ESA vs DOM": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: SLO vs FIN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: UKR vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: POR vs SVK": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: MEX vs CAN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: CHN vs TPE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: UZB vs NZL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: ISR vs POL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: ARG vs KAZ": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: ITA vs SLO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: RSA vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: SUI vs POR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: SWE vs SRB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: GER vs FRA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: URU vs BRA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: CHN vs AUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: JPN vs UZB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: NZL vs PHI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: PER vs DOM": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: KOR vs PAK": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: THA vs INA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: GBR vs LUX": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: HUN vs BLR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: BIH vs EST": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: DEN vs LAT": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: IRL vs TUN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: BUL vs CYP": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: LTU vs MAR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: GRE vs MON": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Winston-Salem": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG SF: SRB vs ARG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ROU vs CZE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: RUS vs BRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ISR vs CAN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: RSA vs CRO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: CHI vs ITA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: JPN vs IND": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: BEL vs AUT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: AUS vs SUI": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: PHI vs TPE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: FIN vs POL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: SVK vs UKR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: GBR vs HUN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: DEN vs BIH": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: KOR vs THA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: MEX vs COL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG F: ESP vs ARG": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ESP vs KAZ": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: AUT vs RUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CAN vs FRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CZE vs ITA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: SRB vs SWE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: JPN vs CRO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: GER vs ARG": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: URU vs PER": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: ECU vs COL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: GBR vs SVK": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: NED vs FIN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: SLO vs DEN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: NZL vs UZB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: KOR vs TPE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: AUS vs CHN": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: UKR vs MON": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: HUN vs IRL": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: EGY vs LAT": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: BLR vs MDA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: TUR vs BIH": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: POL vs MAD": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: MEX vs ESA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: DOM vs BOL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Sao Paulo": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup G1 R2: ISR vs POR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: GBR vs BEL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: NED vs ROU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: RSA vs SLO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: UZB vs IND": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: URU vs CHI": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: ESP vs AUT": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: FRA vs USA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: CZE vs SRB": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: TPE vs CHN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: HUN vs LAT": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: BLR vs BIH": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: POL vs EST": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: EGY vs IRL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: TUR vs MDA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: MEX vs BAR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: VEN vs DOM": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "London Olympics": {
+        "surface": "Grass",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG SF: ARG vs CZE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: KAZ vs UZB": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: GER vs AUS": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: JPN vs ISR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: BEL vs SWE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: PER vs ECU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: IND vs NZL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: ROU vs FIN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: LAT vs UKR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: POL vs BLR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: INA vs PHI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: CAN vs RSA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: BRA vs RUS": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ITA vs CHI": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: NED vs SUI": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: DOM vs MEX": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: SVK vs POR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CAN vs ESP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ITA vs CRO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: BEL vs SRB": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: USA vs BRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: FRA vs ISR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: KAZ vs AUT": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: SUI vs CZE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: URU vs DOM": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: ESA vs BAR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: PER vs HAI": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: POL vs SLO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: ROU vs DEN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: UKR vs SVK": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: BUL vs FIN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: MON vs BLR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: MDA vs HUN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: BIH vs LUX": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: LTU vs CYP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: UZB vs CHN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: JPN vs INA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: CAN vs ITA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: USA vs SRB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: ARG vs FRA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: KAZ vs CZE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: ECU vs CHI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: COL vs URU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: GBR vs RUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: POL vs RSA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: ROU vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: UKR vs SWE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: PAK vs NZL": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: PHI vs THA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: PER vs VEN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: IRL vs FIN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: MON vs LAT": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: BIH vs MDA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: POR vs LTU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: TUN vs BLR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: HUN vs LUX": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: UZB vs AUS": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: JPN vs KOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: CHN vs TPE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: IND vs INA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: BEL vs ISR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: SRB vs CAN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: CZE vs ARG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: ESA vs VEN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: DOM vs CHI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: SLO vs RSA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: SVK vs SWE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: MDA vs POR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: TPE vs INA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ESP vs UKR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: NED vs AUT": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: CRO vs GBR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SUI vs ECU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: GER vs BRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: POL vs AUS": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: JPN vs COL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: RUS vs RSA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG F: SRB vs CZE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: CHN vs NZL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CZE vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: JPN vs CAN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: GER vs ESP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: FRA vs AUS": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: USA vs GBR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ARG vs ITA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: KAZ vs BEL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: SRB vs SUI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: BAR vs CHI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: BOL vs PER": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: ECU vs VEN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: IND vs TPE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: RUS vs POL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: SLO vs POR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: UKR vs ROU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: SVK vs LAT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: RSA vs MON": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: NOR vs LTU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: FIN vs BUL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: BIH vs GRE": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: MDA vs EGY": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: DEN vs CYP": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: THA vs HKG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Rio de Janeiro": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG QF: JPN vs CZE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: FRA vs GER": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: ITA vs GBR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: SUI vs KAZ": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: COL vs DOM": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: CHN vs UZB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: KOR vs IND": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: BAR vs ESA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: MEX vs PER": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: POL vs CRO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: SLO vs ISR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: SVK vs AUT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: RSA vs LTU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: FIN vs BIH": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: MDA vs BLR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: DEN vs LUX": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: GRE vs BUL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: IRL vs EGY": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: MAR vs CYP": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: INA vs HKG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: FRA vs CZE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: SUI vs ITA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: IND vs SRB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: BRA vs ESP": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ISR vs ARG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: CAN vs COL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: USA vs SVK": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: AUS vs UZB": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: NED vs CRO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: UKR vs BEL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: BAR vs MEX": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: VEN vs URU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: THA vs PAK": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: ROU vs SWE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: LAT vs AUT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: RUS vs POR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: BIH vs LTU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: DEN vs MDA": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Shenzhen": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG F: FRA vs SUI": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Quito": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG R1: GBR vs USA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CZE vs AUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: KAZ vs ITA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ARG vs BRA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: SRB vs CRO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CAN vs JPN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: BEL vs SUI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: BAR vs DOM": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: URU vs COL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: THA vs KOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: NZL vs CHN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: RUS vs DEN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: SWE vs AUT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: SVK vs SLO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: ROU vs ISR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: POL vs LTU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: MEX vs BOL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: CHI vs PER": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: TUR vs RSA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: POR vs MAR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: MON vs FIN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: ZIM vs BIH": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: HUN vs MDA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Istanbul": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Geneva": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG QF: GBR vs FRA": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: AUS vs KAZ": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: ARG vs SRB": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: BEL vs CAN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: DOM vs ECU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: NZL vs IND": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: RUS vs ESP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: AUT vs NED": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: ROU vs SVK": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: POL vs UKR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: ISR vs SLO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: VEN vs ESA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: CHI vs MEX": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: TUR vs BLR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: POR vs FIN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: HUN vs BIH": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: LUX vs BUL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: RSA vs IRL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: MON vs MAR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: ZIM vs MDA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 PO: PER vs BOL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: GBR vs AUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: BEL vs ARG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: BAR vs ECU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: DEN vs ESP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: LTU vs UKR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: CHI vs VEN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: POR vs BLR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: BUL vs HUN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 PO: THA vs CHN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: IND vs CZE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SUI vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: RUS vs ITA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: UZB vs USA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: COL vs JPN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: DOM vs GER": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: BRA vs CRO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: POL vs SVK": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG F: BEL vs GBR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Sofia": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup G1 R1: CHI vs DOM": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: NZL vs KOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: HUN vs ISR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: POR vs AUT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: ROU vs SLO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: RUS vs SWE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: URU vs PER": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: BIH vs TUN": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: BUL vs TUR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: EGY vs BLR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: GEO vs DEN": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: LTU vs NOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: MON vs LAT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: RSA vs LUX": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: ZIM vs FIN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ARG vs POL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CRO vs BEL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: GBR vs JPN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: GER vs CZE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: SRB vs KAZ": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: SUI vs ITA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: USA vs AUS": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Marrakech": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup G1 R2: BRA vs ECU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: CHI vs COL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: IND vs KOR": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: ESP vs ROU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: HUN vs SVK": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: RUS vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: UKR vs AUT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: ESA vs VEN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: PER vs MEX": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: FIN vs DEN": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: LAT vs BLR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: LTU vs RSA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: TUR vs BIH": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: GBR vs SRB": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: ITA vs ARG": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: USA vs CRO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Los Cabos": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Rio Olympics": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup G2 R3: PER vs VEN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: TPE vs THA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: BLR vs DEN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: LTU vs BIH": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: FRA vs CRO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: GBR vs ARG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: AUS vs SVK": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: BEL vs BRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: CAN vs CHI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ESP vs IND": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: GER vs POL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: JPN vs UKR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: KAZ vs RUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SUI vs UZB": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Chengdu": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Antwerp": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG F: ARG vs CRO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: DOM vs CHI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: PER vs ECU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: UZB vs KOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: ISR vs POR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: POL vs BIH": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: ROU vs BLR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: SVK vs HUN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: BOL vs ESA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: FIN vs GEO": {
+        "surface": "Carpet",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: MON vs SLO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: NOR vs LAT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: SWE vs TUN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: TUR vs CYP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: BEL vs GER": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CAN vs GBR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ESP vs CRO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: JPN vs FRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: TPE vs CHN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: KAZ vs CHN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: BLR vs AUT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: NED vs BIH": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: POR vs UKR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: LTU vs GEO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: NOR vs DEN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: RSA vs SLO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: SWE vs TUR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: AUS vs USA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: FRA vs GBR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: ITA vs BEL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: SRB vs ESP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Budapest": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Antalya": {
+        "surface": "Grass",
+        "tourney_level": "O"
+    },
+    "Davis Cup G2 R3: BAR vs VEN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: PAK vs THA": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: SWE vs LTU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: BEL vs AUS": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: FRA vs SRB": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ARG vs KAZ": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: CAN vs IND": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: CRO vs COL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: CZE vs NED": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: GER vs POR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: JPN vs BRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: RUS vs HUN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Laver Cup": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "NextGen Finals": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG F: BEL vs FRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Pune": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup G1 R1: CHI vs ECU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: COL vs BAR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: DOM vs BRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: KOR vs PAK": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: AUT vs BLR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: RSA vs ISR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: UKR vs SWE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: AUS vs GER": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: CAN vs CRO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: GBR vs ESP": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: HUN vs BEL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: ITA vs JPN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: KAZ vs SUI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG R1: USA vs SRB": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: ESA vs URU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: VEN vs GUA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: LBN vs TPE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: EGY vs NOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: GEO vs MAR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: ROU vs LUX": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: TUN vs FIN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: TUR vs ZIM": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "New York": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup G1 R2: ARG vs CHI": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: IND vs CHN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: AUT vs RUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: BIH vs SVK": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: CZE vs ISR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R2: POR vs SWE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: FRA vs ITA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: KAZ vs CRO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG QF: USA vs BEL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: VEN vs URU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: HKG vs LBN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: EGY vs DEN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: FIN vs LTU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: POL vs ZIM": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R2: ROU vs MAR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: EGY vs FIN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: CRO vs USA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG SF: FRA vs ESP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: ARG vs COL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: AUT vs AUS": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: CAN vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: GBR vs UZB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: HUN vs CZE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: JPN vs BIH": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SRB vs IND": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG PO: SUI vs SWE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: URU vs MEX": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: THA vs LBN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R3: ROU vs POL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG F: FRA vs CRO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: AUS vs BIH": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: AUT vs CHI": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: BEL vs BRA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: CAN vs SVK": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: CZE vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: GER vs HUN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: ITA vs IND": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: JPN vs CHN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: KAZ vs POR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: SRB vs UZB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: SUI vs RUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: SWE vs COL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Cordoba": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup G2 R1: LTU vs MAR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: ROU vs ZIM": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: BRA vs BAR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: UZB vs LBN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: AUT vs FIN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: POR vs BLR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: SUI vs SVK": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: SWE vs ISR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: GUA vs BOL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: DEN vs TUR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: EGY vs SLO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: NOR vs GEO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: RSA vs BUL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: CHN vs KOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: CZE vs BIH": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G1 R1: HUN vs UKR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: MEX vs PAR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: NZL vs INA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup G2 R1: TPE vs HKG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Zhuhai": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup Finals RR: CRO vs RUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: BEL vs COL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: ITA vs CAN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: FRA vs JPN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: ESP vs RUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: ARG vs CHI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: AUS vs COL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: KAZ vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: USA vs CAN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: SRB vs JPN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: CRO vs ESP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: ARG vs GER": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: BEL vs AUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: GBR vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: USA vs ITA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: FRA vs SRB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: GER vs CHI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: GBR vs KAZ": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals QF: AUS vs CAN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals QF: ARG vs ESP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals QF: GBR vs GER": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals QF: SRB vs RUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals SF: GBR vs ESP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals SF: RUS vs CAN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals F: CAN vs ESP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Atp Cup": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "ATP Rio de Janeiro": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup QLS R1: ARG vs COL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: AUS vs BRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: AUT vs URU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: BEL vs HUN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: CRO vs IND": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: CZE vs SVK": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: GER vs BLR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: JPN vs ECU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: KAZ vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: SWE vs CHI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: USA vs UZB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: BIH vs RSA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: BOL vs DOM": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: LBN vs THA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: LTU vs POR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: MEX vs FIN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: NOR vs BAR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: PAK vs SLO": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: PER vs SUI": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: TUR vs ISR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: UKR vs TPE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: VEN vs NZL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: CRC vs BUL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: DEN vs PUR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: ESA vs JAM": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: GEO vs EST": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: GUA vs TUN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: LAT vs EGY": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: MAR vs VIE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: SYR vs ZIM": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Us Open": {
+        "surface": "Hard",
+        "tourney_level": "G"
+    },
+    "St Petersburg": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Cologne 1": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Sardinia": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Cologne 2": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Nur-Sultan": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Great Ocean Road Open": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Murray River Open": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Singapore": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG1 R1: ISR vs UKR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: JPN vs PAK": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: MEX vs BUL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: POL vs ESA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Marbella": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Cagliari": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Parma": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Belgrade 2": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Tokyo Olympics": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup WG1 R1: BIH vs PER": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: CHI vs SVK": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: IND vs FIN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: KOR vs NZL": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: UZB vs NOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: BAR vs INA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: DOM vs TUN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: SLO vs PAR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: SUI vs EST": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: THA vs DEN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: ARG vs BLR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: BEL vs BOL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: BRA vs LBN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: NED vs URU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: POR vs ROU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: LTU vs GRE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: RSA vs VEN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: TUR vs LAT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "San Diego": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup Finals RR: CAN vs SWE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: FRA vs CZE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: CRO vs AUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: ESP vs ECU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: SRB vs AUT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: UKR vs NOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: TUN vs ZIM": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: RTF vs ECU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: KAZ vs SWE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: FRA vs GBR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: AUS vs HUN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: ITA vs COL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: SRB vs GER": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: ESP vs RTF": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: CAN vs KAZ": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: GBR vs CZE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: CRO vs HUN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: USA vs COL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: GER vs AUT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals QF: ITA vs CRO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals QF: SRB vs KAZ": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals QF: RTF vs SWE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals SF: CRO vs SRB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals SF: RTF vs GER": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals F: RTF vs CRO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Adelaide 1": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Melbourne": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Adelaide 2": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Dallas": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup QLS R1: ARG vs CZE": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: AUS vs HUN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: AUT vs KOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: BEL vs FIN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: CAN vs NED": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: ESP vs ROU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: FRA vs ECU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: GER vs BRA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: ITA vs SVK": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: KAZ vs NOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: SWE vs JPN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: USA vs COL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: CHI vs SLO": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: IND vs DEN": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: PAK vs LTU": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: UZB vs TUR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: EGY vs CYP": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: GRE vs JAM": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: ARG vs SWE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: KOR vs CAN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: AUS vs BEL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: ITA vs CRO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: ESP vs SRB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: FRA vs GER": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: USA vs GBR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: CRO vs SWE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: KOR vs SRB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: FRA vs AUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: USA vs KAZ": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: HUN vs UKR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: ITA vs ARG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: ESP vs CAN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: GER vs BEL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: BIH vs MEX": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: BRA vs POR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: CZE vs ISR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: FIN vs NZL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: IND vs NOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: JPN vs UZB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: SVK vs ROU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: BAR vs IRL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: BOL vs THA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: DOM vs LAT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: LBN vs MON": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: POL vs INA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: SLO vs EST": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: TUN vs GRE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: URU vs CHN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: ARG vs CRO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: SRB vs CAN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: FRA vs BEL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: USA vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: CHI vs PER": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: COL vs TUR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: ECU vs SUI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: DEN vs ESA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: LTU vs EGY": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: TPE vs HKG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: ITA vs SWE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: ESP vs KOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: GER vs AUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Tel Aviv": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Seoul": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Astana": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Florence": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Gijon": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Naples": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup Finals QF: AUS vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals QF: CRO vs ESP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals QF: GER vs CAN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals QF: ITA vs USA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals SF: AUS vs CRO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals SF: ITA vs CAN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals F: CAN vs AUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "United Cup": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup QLS R1: FRA vs HUN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: GBR vs COL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: GER vs SUI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: SRB vs NOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: SWE vs BIH": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: ARG vs FIN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: BEL vs KOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: CRO vs AUT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: CZE vs POR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: KAZ vs CHI": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: NED vs SVK": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Rio De Janeiro": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Banja Luka": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup Finals RR: SWE vs CHI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: FRA vs SUI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: SRB vs KOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: NED vs FIN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: CAN vs ITA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: AUS vs GBR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: ESP vs CZE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: CRO vs USA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: AUS vs FRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: CZE vs KOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: NED vs USA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: UKR vs COL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: ITA vs CHI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: GBR vs SUI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: CRO vs FIN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: AUT vs POR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: DEN vs BRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: LBN vs JAM": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: MON vs ECU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: SLO vs LUX": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: CAN vs CHI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: AUS vs SUI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: SRB vs CZE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: USA vs FIN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: ARG vs LTU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: BIH vs GER": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: BUL vs KAZ": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: GRE vs SVK": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: ISR vs JPN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: PER vs NOR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: ESA vs IRL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: HKG vs LAT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: IND vs MAR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: MEX vs CHN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: URU vs EGY": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: GBR vs FRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: CRO vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals QF: CAN vs FIN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals QF: CZE vs AUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals QF: ITA vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals QF: SRB vs GBR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals SF: FIN vs AUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals SF: ITA vs SRB": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals F: AUS vs ITA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: UKR vs USA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: CAN vs KOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: FIN vs POR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: HUN vs GER": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: NED vs SUI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: SRB vs SVK": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: SWE vs BRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: COL vs LUX": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: EGY vs ECU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: LBN vs JPN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: NOR vs LAT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: NZL vs TUR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: UZB vs POL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: CHN vs SLO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: TUN vs CRC": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: VIE vs RSA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: ARG vs KAZ": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: CHI vs PER": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: CRO vs BEL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: CZE vs ISR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup QLS R1: TPE vs FRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: BUL vs BIH": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: GRE vs ROU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: IRL vs AUT": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: LTU vs GEO": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: MEX vs DEN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 PO: PAK vs IND": {
+        "surface": "Grass",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: BOL vs THA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: CYP vs MAR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: HKG vs ZIM": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: JAM vs BAR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: TOG vs INA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: URU vs MDA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 PO: IRI vs EST": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Paris Olympics": {
+        "surface": "Clay",
+        "tourney_level": "O"
+    },
+    "Davis Cup Finals RR: NED vs BEL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: GER vs SVK": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: CAN vs ARG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: ITA vs BRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: CZE vs ESP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: USA vs CHI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: FIN vs GBR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: NED vs BRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: AUS vs CZE": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: CAN vs FIN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: ITA vs BEL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: FRA vs ESP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: USA vs SVK": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: GBR vs ARG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: AUT vs TUR": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: CRO vs LTU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: EGY vs HUN": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: NOR vs POR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: POL vs KOR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: SUI vs PER": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: BOL vs URU": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: ROU vs CHN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: TUN vs IRL": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: UZB vs EST": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: BEL vs BRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: CZE vs FRA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: GER vs USA": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: FIN vs ARG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: JPN vs COL": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: KAZ vs DEN": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: SWE vs IND": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG1 R1: TPE vs BIH": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: BUL vs ESA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: GEO vs MEX": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: HKG vs ECU": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: LBN vs RSA": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: MAR vs MON": {
+        "surface": "Clay",
+        "tourney_level": "D"
+    },
+    "Davis Cup WG2 R1: NZL vs LUX": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: ITA vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: AUS vs ESP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: SVK vs CHI": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals RR: CAN vs GBR": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Hangzhou": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Almaty": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    },
+    "Davis Cup Finals QF: NED vs ESP": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals QF: ITA vs ARG": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals QF: USA vs AUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals SF: GER vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals SF: ITA vs AUS": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Davis Cup Finals F: ITA vs NED": {
+        "surface": "Hard",
+        "tourney_level": "D"
+    },
+    "Next Gen Finals": {
+        "surface": "Hard",
+        "tourney_level": "O"
+    }
+}
