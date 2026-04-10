@@ -24,6 +24,12 @@ TL;DR: An end-to-end ML pipeline predicting ATP match outcomes with 68.3% accura
 
 A temporal analysis of the backtest (2015–2024) reveals a significant Regime Shift. As machine learning techniques became democratized circa 2018–2020, "Sharp" market efficiency increased, pricing out standard temporal features.
 
+Simulations assumptions:
+-  Flat 1-unit betting strategy
+-  No liquidity constraints
+-  Uses historical odds without slippage
+-  Does not account for bookmaker limits or account restrictions
+
 
 
 **1. The Historical Era (2015–2018)**
@@ -48,7 +54,6 @@ As professional syndicates adopted similar ML-driven approaches, Pinnacle's clos
 </p>
 (this simulation bets 1 unit on every match that meets the stated conditions )
 
-(this simulation bets 1 unit on every match that meets the stated conditions )
 
 
 Insight: While "Sharp" alpha has decayed, the system remains a highly effective Value-Finder in "Soft" markets, where bookmaker lines lag behind the theoretical probability.
@@ -104,7 +109,7 @@ graph TD
 
 - 40+ Temporal Features: Moving beyond basic rankings, the model weights Rest Differentials, Long-Layoff Indicators, and Shot Variety Mismatches.
 
-- Selection Bias Awareness: Backtesting was conducted on the 30.3% "Efficient Frontier" (ATP Main Draw). The positive yields found in soft markets represent a conservative baseline for the system's potential in lower-tier, less-efficient markets (Challengers/Qualifiers).
+- Selection Bias Awareness: Backtesting was conducted on the 60% "Efficient Frontier" (ATP Main Draw). The positive yields found in soft markets represent a conservative baseline for the system's potential in lower-tier, less-efficient markets (Challengers/Qualifiers).
 
 ## ⚖️ Statistical Reliability & Risk Mitigation
 To ensure the financial returns are driven by mathematical edge rather than variance, the pipeline heavily focuses on probability calibration and risk filtering.
